@@ -1,0 +1,550 @@
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104933.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104629.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104338-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104338-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104338.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104337-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104337.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104335.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104247-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104247.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104246-4.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104246-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104246-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104246-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104246.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104245-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104245-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104245-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104245.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104244-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104244-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104244-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104244.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104243.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104242.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T104208.400.txt
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103850.400.txt
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103359-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103359-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103359-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103359.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103358-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103358-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103358-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103358.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103357-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103357-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103357-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103357.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103356-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103356-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103356.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103354.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103353.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T103053.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T102949.400.txt
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T102846-3.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T102846-2.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T102846-1.400.json
+
+###
+
+POST http://localhost:8080/student/create
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{   "userId": "demoData",   "userName": "demoData",   "password": "demoData",   "age": 1,   "email": "demoData",   "remark": "demoData",   "socre": 1,   "status": true }
+
+<> 2019-07-22T102846.400.json
+
+###
+

@@ -1,0 +1,68 @@
+{
+  "timestamp": "2019-07-22T14:33:57.163+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "errors": [
+    {
+      "codes": [
+        "Pattern.student.email",
+        "Pattern.email",
+        "Pattern.java.lang.String",
+        "Pattern"
+      ],
+      "arguments": [
+        {
+          "codes": [
+            "student.email",
+            "email"
+          ],
+          "arguments": null,
+          "defaultMessage": "email",
+          "code": "email"
+        },
+        [],
+        {
+          "defaultMessage": "^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*\\.[a-zA-Z0-9]{2,6}$",
+          "arguments": null,
+          "codes": [
+            "^[a-zA-Z0-9_.-]+@[a-zA-Z0-9-]+(\\.[a-zA-Z0-9-]+)*\\.[a-zA-Z0-9]{2,6}$"
+          ]
+        }
+      ],
+      "defaultMessage": "不满足邮箱正则表达式",
+      "objectName": "student",
+      "field": "email",
+      "rejectedValue": "demoData",
+      "bindingFailure": false,
+      "code": "Pattern"
+    },
+    {
+      "codes": [
+        "Min.student.age",
+        "Min.age",
+        "Min.java.lang.Integer",
+        "Min"
+      ],
+      "arguments": [
+        {
+          "codes": [
+            "student.age",
+            "age"
+          ],
+          "arguments": null,
+          "defaultMessage": "age",
+          "code": "age"
+        },
+        18
+      ],
+      "defaultMessage": "必须年满18岁！",
+      "objectName": "student",
+      "field": "age",
+      "rejectedValue": 1,
+      "bindingFailure": false,
+      "code": "Min"
+    }
+  ],
+  "message": "Validation failed for object='student'. Error count: 2",
+  "path": "/student/create"
+}

@@ -19,10 +19,10 @@ public class StudentController {
 
     @PostMapping("/create")
     public ResponseEntity<Student> createStudent(@Valid @RequestBody Student student){
-        log.info("创建用户信息：{}",student);
+
         String userId = UUID.randomUUID().toString();
         student.setUserId(userId);
-
+        log.info("成功创建用户信息：{}",student);
         return ResponseEntity.ok(student);
     }
 }

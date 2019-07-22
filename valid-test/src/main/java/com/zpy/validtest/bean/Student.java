@@ -28,6 +28,7 @@ public class Student {
     @Size(max=10,min=5,message = "字段长度要在5-10之间")
     private String remark;
 
+    @DecimalMax(value = "12.00",message = "评分不能小于12.00")
     private BigDecimal socre;
 
     private Boolean status;

@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="valid-test" />
         <module name="prefectspringboottest" />
+        <module name="valid-test" />
+        <module name="java8" />
       </profile>
     </annotationProcessing>
   </component>

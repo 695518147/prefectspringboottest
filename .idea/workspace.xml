@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5d592a-4106-4e90-8864-b5628f53f8d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/src/main/java/com/zpy/mybatis/MybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis/src/test/java/com/zpy/mybatis/MybatisApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/valid-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/valid-test/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <ignored path="$PROJECT_DIR$/java8/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,10 +38,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/bean/Student.java">
+        <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/zpy/mybatis/MybatisApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/service/StudentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,81 +59,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valid-test/HELP.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="900">
-                <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/controller/StudentController.java">
+        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/ValidTestApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/StudentTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="150" selection-start-line="150" selection-end-line="150" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/Test.java">
+        <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java8/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java8/src/test/java/com/zpy/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="434">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -116,8 +80,42 @@
         <entry file="file://$PROJECT_DIR$/valid-test/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="87">
+              <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.1.6.RELEASE/spring-boot-starter-validation-2.1.6.RELEASE.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-586" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,7 +143,6 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/valid-test/HELP.md" />
-        <option value="$PROJECT_DIR$/valid-test/pom.xml" />
         <option value="$PROJECT_DIR$/valid-test/src/main/java/globalexception/GlobalException.java" />
         <option value="$PROJECT_DIR$/valid-test/src/main/java/globalexception/GlobalExceptionHandler.java" />
         <option value="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/globalexception/GlobalException.java" />
@@ -156,6 +153,9 @@
         <option value="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/globalexception/GlobalExceptionHandler.java" />
         <option value="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/bean/Student.java" />
         <option value="$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/StudentTest.java" />
+        <option value="$PROJECT_DIR$/valid-test/pom.xml" />
+        <option value="$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -177,6 +177,81 @@
             <path>
               <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
               <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="validtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="validtest" type="462c0819:PsiDirectoryNode" />
+              <item name="globalexception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="validtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prefectspringboottest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prefectspringboottest" type="462c0819:PsiDirectoryNode" />
+              <item name="valid-test" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +367,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentTest.testCreateStudent">
+  <component name="RunManager" selected="JUnit.ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zpy.validtest.Test" />
+      <module name="valid-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpy.validtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentTest.testCreateStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="valid-test" />
       <extension name="coverage">
@@ -304,6 +392,22 @@
       <option name="PACKAGE_NAME" value="com.zpy.validtest" />
       <option name="MAIN_CLASS_NAME" value="com.zpy.validtest.StudentTest" />
       <option name="METHOD_NAME" value="testCreateStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="valid-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zpy.validtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zpy.validtest" />
+      <option name="MAIN_CLASS_NAME" value="com.zpy.validtest.ValidTestApplicationTests" />
+      <option name="METHOD_NAME" value="whenInputIsInvalid_thenThrowsException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -356,6 +460,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zpy.mybatis.MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="valid-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zpy.validtest.ValidTestApplication" />
@@ -365,6 +476,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.StudentTest.testCreateStudent" />
       </list>
     </recent_temporary>
@@ -395,25 +508,17 @@
       <option name="project" value="LOCAL" />
       <updated>1564063535667</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="valid">
+      <created>1564063695763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564063695763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 42m 57s.xml">
-      <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 44m 10s.xml">
-      <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 45m 48s.xml">
-      <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 46m 36s.xml">
-      <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 48m 14s.xml">
-      <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 49m 13s.xml">
       <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
     </history-entry>
@@ -429,12 +534,28 @@
     <history-entry file="StudentTest_testCreateStudent - 2019.07.22 at 23h 52m 53s.xml">
       <configuration name="StudentTest.testCreateStudent" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ValidTestApplicationTests_whenInputIsInvalid_thenThrowsException - 2019.07.31 at 22h 10m 05s.xml">
+      <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidTestApplicationTests_whenInputIsInvalid_thenThrowsException - 2019.07.31 at 22h 10m 35s.xml">
+      <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidTestApplicationTests_whenInputIsInvalid_thenThrowsException - 2019.07.31 at 22h 11m 35s.xml">
+      <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidTestApplicationTests_whenInputIsInvalid_thenThrowsException - 2019.07.31 at 22h 11m 54s.xml">
+      <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ValidTestApplicationTests_whenInputIsInvalid_thenThrowsException - 2019.07.31 at 22h 12m 27s.xml">
+      <configuration name="ValidTestApplicationTests.whenInputIsInvalid_thenThrowsException" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11069000" />
+    <option name="totallyTimeSpent" value="13824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -444,7 +565,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,7 +579,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="JProfiler" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="16" weight="0.32939634" />
       <window_info anchor="bottom" id="Messages" order="17" weight="0.32939634" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,7 +599,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springboot spring各种总结。" />
     <MESSAGE value="java 8 特性" />
-    <option name="LAST_COMMIT_MESSAGE" value="java 8 特性" />
+    <MESSAGE value="valid" />
+    <option name="LAST_COMMIT_MESSAGE" value="valid" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -565,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/ValidTestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/HttpMediaTypeNotSupportedException.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -623,16 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/globalexception/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.8.RELEASE/spring-test-5.1.8.RELEASE.jar!/org/springframework/test/web/servlet/MockMvc.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -644,16 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/HELP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="900">
-            <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -697,28 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="150" selection-start-line="150" selection-end-line="150" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java8/src/main/java/com/zpy/sort/说明">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -726,13 +799,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/Validator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="281">
+            <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="285">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-validation/2.1.6.RELEASE/spring-boot-starter-validation-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/zpy/mybatis/MybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/ValidTestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/main/java/com/zpy/validtest/globalexception/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-test/2.1.6.RELEASE/spring-boot-starter-test-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-830" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid-test/src/test/java/com/zpy/validtest/ValidTestApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>

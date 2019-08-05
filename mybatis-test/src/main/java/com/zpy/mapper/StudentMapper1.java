@@ -4,7 +4,7 @@ import com.zpy.po.Student;
 
 import java.util.List;
 
-public interface StudentMapper {
+public interface StudentMapper1 {
 
     Student selectOne(Long studentId);
 

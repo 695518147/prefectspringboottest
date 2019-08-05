@@ -9,6 +9,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import java.io.IOException;
 import java.io.Reader;
 import java.sql.Connection;
+import java.util.List;
 
 /**
  * Hello world!
@@ -72,7 +73,9 @@ public class MybatisUtil
         Connection conn = MybatisUtil.getSqlSession().getConnection();
         System.out.println(conn!=null?"连接成功":"连接失败");
         Student student = MybatisUtil.getSqlSession().selectOne("com.zpy.mapper.StudentMapper.selectOne",1);
+        List<Student> students = MybatisUtil.getSqlSession().selectList("com.zpy.mapper.StudentMapper.selectList");
         System.out.println(student);
+        System.out.println(students);
     }
 
 

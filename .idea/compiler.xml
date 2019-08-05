@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="prefectspringboottest" />
+        <module name="mybatistest" />
         <module name="mybatis" />
         <module name="valid-test" />
         <module name="java8" />
